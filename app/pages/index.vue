@@ -9,6 +9,7 @@
                 Starter template for
                 <a href>Nuxt.js</a> with
                 <a href>KeystoneJS</a>.
+                R0N1n-dev
               </h1>
               <h2
                 class="subtitle"
